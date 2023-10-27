@@ -4,7 +4,7 @@
 
 ### DESCRIPTION
 
-Displays a window with a list of Windows 11 keyboard shortcuts when CRTL + 1 are pressed.
+Displays a window with a list of Windows 11 keyboard shortcuts when "CRTL + 1" are pressed.
 
 ### SUGGESTION
 
