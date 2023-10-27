@@ -6,6 +6,10 @@
 
 Displays a window with a list of Windows 11 keyboard shortcuts when CRTL + 1 are pressed.
 
+### SUGGESTION
+
+![Microsoft](https://github.com/sourceduty/Keybind_Instructions/assets/123030236/388df8a1-d380-4bfa-9e51-bb515bec21d6)
+
 ### REFERENCES
 
 [How to Remap a Keyboard in Windows 10](https://www.lifewire.com/remap-keyboard-in-windows-10-5181178)
