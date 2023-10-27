@@ -2,13 +2,9 @@
 
 ⌨️ Single key default input instructions.
 
-### CONCEPT
-
-Input shorcut key instructions bound to a single default key. 
-
 ### USAGE
 
-Press the [+] key for default shortcut keys and press [CTRL] + [+] for the [+].
+Press the CRTL + 1
 
 ### REFERENCES
 
