@@ -1,4 +1,4 @@
-## Keybind_Instructions
+## Keybind_Shortcuts_Windows_11
 
 ⌨ Bind the default Windows 11 shortcut list to your keyboard.
 
