@@ -1,10 +1,10 @@
 ## Keybind_Instructions
 
-⌨️ Single key default input instructions.
+⌨ Bind the default Windows 11 shortcut list to your keyboard.
 
-### USAGE
+### DESCRIPTION
 
-Press the CRTL + 1
+Displays a window with a list of Windows 11 keyboard shortcuts when CRTL + 1 are pressed.
 
 ### REFERENCES
 
