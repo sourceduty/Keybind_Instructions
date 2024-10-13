@@ -9,8 +9,12 @@ Displays a window with a list of Windows 11 keyboard shortcuts when "CRTL + 1" a
 #
 ### Related Links
 
+[Right Click Converter](https://github.com/sourceduty/Right_Click_Converter)
+<br>
+[Windows](https://github.com/sourceduty/Windows)
+<br>
 [How to Remap a Keyboard in Windows 10](https://www.lifewire.com/remap-keyboard-in-windows-10-5181178)
-<br />
+<br>
 [Power Toys](https://learn.microsoft.com/en-us/windows/powertoys/install)
 
 ***
