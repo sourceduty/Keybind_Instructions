@@ -16,6 +16,8 @@ Displays a window with a list of Windows 11 keyboard shortcuts when "CRTL + 1" a
 [How to Remap a Keyboard in Windows 10](https://www.lifewire.com/remap-keyboard-in-windows-10-5181178)
 <br>
 [Power Toys](https://learn.microsoft.com/en-us/windows/powertoys/install)
+<br>
+[OS Automation](https://github.com/sourceduty/OS_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
